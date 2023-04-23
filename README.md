@@ -24,6 +24,9 @@
 
 ### 第二次作业
 平凡的世界作为现当代长篇小说的代表作，涉及到数十个人物。人物间的关系错综复杂，因此，决定采用共现分析的方法，通过pycharts做出关系图，大致判断人物间的联系紧密程度。
-[关系图](https://modisunset.github.io/平凡的世界关系图.html)
+
+[关系图](https://modisunset.github.io/关系图-平凡的世界.html)
+
 同时，为了练习所学的网页设计技术，将图片存入一个网页之中，更加便捷。
+
 [图片形式](https://modisunset,github.io/关系图.html)
