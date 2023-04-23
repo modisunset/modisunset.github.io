@@ -29,4 +29,4 @@
 
 同时，为了练习所学的网页设计技术，将图片存入一个网页之中，更加便捷。
 
-[图片形式](https://modisunset,github.io/关系图.html)
+[图片形式](https://modisunset,github.io/关系图.png)
